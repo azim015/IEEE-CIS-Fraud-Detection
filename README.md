@@ -15,4 +15,3 @@ If you use this work, please cite the following paper:
   organization={IEEE}
 }
 ```
-..
